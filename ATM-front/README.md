@@ -1,5 +1,5 @@
-# Atm.frint
-
+# Atm front-end
+Proyecto angular
 
 ## Requisitos previos
 
